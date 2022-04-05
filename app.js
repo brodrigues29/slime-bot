@@ -181,4 +181,4 @@ process.on('unhandledRejection', (reason, promise) => {
 })
 
 // bot login
-bot.login(config.token);
+client.login("OTYwOTc4MjA4NDYxODI4MDk2.YkySsw.I28xAeOKPilidMGq6ExPiZivF9I");
